@@ -1,1 +1,24 @@
 proxies:
+  - {name: "中國[Jul/03-15:06]TJN-1", server: zf.heigouyunzf.xyz, port: 38801, type: trojan, password: bc879024-4a54-4cda-874a-3a39f6bc634d, sni: zf.heigouyunzf.xyz, skip-cert-verify: true, udp: true}
+  - {name: 新加坡-imLam.com/TJN-2, server: 3.1.64.195, port: 443, type: trojan, password: 2a9abeb7-6f97-4d33-9069-f6e009d88455, skip-cert-verify: true, udp: true}
+  - {name: 美國-imLam.com/VMS-3, server: 64.32.4.41, port: 43166, type: vmess, uuid: 8653004f-de67-44c2-9cce-e0830933fb03, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 日本-imLam.com/TJN-4, server: spkr.1234567890spcloud.com, port: 443, type: trojan, password: a9d3227f-d9b3-4bf2-872d-d73bad1f693e, sni: spkr.1234567890spcloud.com, skip-cert-verify: true, udp: true}
+  - {name: 新加坡-imLam.com/TJN-5, server: hk1.gsjc.cfd, port: 443, type: trojan, password: bce72830-6561-4af6-a2c4-052fccb94595, sni: hk1.gsjc.cfd, skip-cert-verify: true, udp: true}
+  - {name: 美國-imLam.com/VMS-6, server: node-us-gb.suvip.xyz, port: 443, type: vmess, uuid: 853520E1-D155-F706-F2E4-504E643E3CFC, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+  - {name: 美國-imLam.com/VMS-7, server: 107.167.16.217, port: 33589, type: vmess, uuid: 8c679b81-84fc-43ce-9553-ddca575a6949, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 香港-imLam.com/VMS-8, server: node-hkg-ph23.suvip.xyz, port: 443, type: vmess, uuid: 853520E1-D155-F706-F2E4-504E643E3CFC, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+  - {name: 美國-imLam.com/VMS-9, server: 140.99.57.46, port: 59402, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 新加坡-imLam.com/TJN-10, server: sg2.gsjc.cfd, port: 443, type: trojan, password: bce72830-6561-4af6-a2c4-052fccb94595, sni: sg2.gsjc.cfd, skip-cert-verify: true, udp: true}
+  - {name: 美國-imLam.com/TJN-11, server: bgd---us-2xy---6jinm7--cx.xn--9kq476ja.com, port: 443, type: trojan, password: 7a0de033-5bc6-475a-95e0-15bbbeeb95b0, sni: bgd---us-2xy---6jinm7--cx.xn--9kq476ja.com, skip-cert-verify: true, udp: true}
+  - {name: 美國-imLam.com/VMS-12, server: 171.22.134.9, port: 53433, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 中國-imLam.com/TJN-13, server: s.steamdownload.top, port: 36654, type: trojan, password: e389bd77-6c01-4387-8a2a-2837505f659d, sni: s.steamdownload.top, skip-cert-verify: true, udp: true}
+  - {name: 日本-imLam.com/TJN-14, server: fsctw.fscloud123456789.com, port: 443, type: trojan, password: 0ac1a0a8-2a02-4ec8-acbe-704a13a471ab, sni: fsctw.fscloud123456789.com, skip-cert-verify: true, udp: true}
+  - {name: 荷蘭-imLam.com/VMS-15, server: 45.58.154.135, port: 51409, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 韓國-imLam.com/TJN-16, server: kr5.microsoft-orgwly.vip, port: 10023, type: trojan, password: c8817339-2a7e-484e-92bf-e16fbc51a668, sni: kr5.microsoft-orgwly.vip, skip-cert-verify: true, udp: true}
+  - {name: 香港-imLam.com/VMS-17, server: 156.245.8.128, port: 48120, type: vmess, uuid: 3ca912da-6ac2-418f-b9cf-45b6f694579b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 美國-imLam.com/VMS-18, server: 129.146.247.135, port: 32560, type: vmess, uuid: c24b6170-ba54-4b2b-92a7-c04740bfc7bf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 新加坡-imLam.com/TJN-19, server: hk2.gsjc.cfd, port: 443, type: trojan, password: bce72830-6561-4af6-a2c4-052fccb94595, sni: hk2.gsjc.cfd, skip-cert-verify: true, udp: true}
+  - {name: 美國-imLam.com/VMS-20, server: 156.225.67.248, port: 44443, type: vmess, uuid: 84d1de11-ce12-4a15-8312-1338356d4ac4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 法國-imLam.com/VMS-21, server: 156.249.18.158, port: 48123, type: vmess, uuid: 63b4b829-7f01-4e26-b037-f04b1f098765, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 越南-imLam.com/TJN-22, server: 103.173.255.234, port: 443, type: trojan, password: 7bc26a40-41a8-41e0-aded-c48f1429c929, skip-cert-verify: true, udp: true}
+  - {name: 荷蘭-imLam.com/VMS-23, server: 154.85.1.245, port: 47731, type: vmess, uuid: 1d474f0b-e78d-4af9-bc4a-a467467bc7a7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
