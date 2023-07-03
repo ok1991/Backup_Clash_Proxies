@@ -5,7 +5,9 @@
   <br>
 </h1>
 
-⚠️警告 backup.yaml 無法直接訂閱使用；
+## 访客数
+
+![Visitor's Count](https://profile-counter.glitch.me/ok1991_Backup_Clash_Proxies/count.svg)
 
 ## 免責聲明
 * 本項目全部節點來自網絡，僅供個人或學習交流使用，嚴禁用於商業用途
