@@ -12,8 +12,9 @@
 ## 使用方法
 
 將以下訂閱鏈接導入相應客戶端即可。
-- [Clash_Proxies]()
->`Clash_Proxies`只包含節點內容請自行轉換；
+- [Clash_Proxies](https://raw.githubusercontent.com/ok1991/Backup_Clash_Proxies/main/Backup.yaml)
+
+> `Clash_Proxies`只包含節點內容請自行轉換；
 
 ## 客戶端選擇
 
